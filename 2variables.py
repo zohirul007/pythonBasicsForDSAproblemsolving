@@ -1,7 +1,7 @@
 #variables
 a=10
 b=12
-name = "Tanzin"
+name = "Sanjana"
 address= "vill: x, post: y, district: z"
 print(a+b)
 print(name, address)
