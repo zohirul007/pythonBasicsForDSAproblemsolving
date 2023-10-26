@@ -9,3 +9,4 @@ print(name[0:])
 print(name[:3])  # by default python  put 0 index on first
 print(name[:])  # if we don't declare the start and the end of
 # the string then python will give return the original copy of the string
+#these len function are using to find the index of a string
